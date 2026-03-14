@@ -1,1 +1,1 @@
-# newsletter-backend
+# Newsletter Service
